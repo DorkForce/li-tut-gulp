@@ -1,0 +1,20 @@
+{
+  "name": "dds-2.0-datavis",
+  "version": "1.0.0",
+  "description": "Dell Design System - Data Visualization Library",
+  "author": "Dell",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.13.8",
+    "@babel/preset-env": "^7.13.8",
+    "browser-sync": "^2.26.14",
+    "browsersync": "0.0.1-security",
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^4.1.0",
+    "node-sass": "^5.0.0"
+  },
+  "dependencies": {}
+}
