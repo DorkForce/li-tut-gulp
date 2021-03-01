@@ -1,8 +1,8 @@
 {
-  "name": "dds-2.0-datavis",
+  "name": "li-tut-gulp",
   "version": "1.0.0",
-  "description": "Dell Design System - Data Visualization Library",
-  "author": "Dell",
+  "description": "Generic Gulp Setup",
+  "author": "Unknown",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.13.8",
